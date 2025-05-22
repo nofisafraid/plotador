@@ -1,6 +1,5 @@
 # plotador
-plotador de gráficos
-Gráfico de Dados Personalizado (X vs. Y)
+plotador de Gráficos de Dados Personalizado (X vs. Y)
 Este repositório contém um script Python simples que permite visualizar dados em um gráfico de X e Y usando a biblioteca matplotlib. É ideal para plotar relações entre duas variáveis, como tensão vs. corrente, tempo vs. temperatura, ou qualquer outro conjunto de dados.
 
 Visão Geral
